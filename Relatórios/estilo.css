@@ -1,0 +1,4 @@
+.table{width: 200px;border-collapse: collapse;}
+
+/*bordas nas linhas*/
+.table tr{border:1px black solid;}
